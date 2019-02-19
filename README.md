@@ -5,11 +5,9 @@ Implementation using Python 3, PyTorch, Unity ML-Agents.
 
 # Demo 
 
-https://youtu.be/sITdR22gfPo
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sITdR22gfPo
 " target="_blank"><img src="https://github.com/nabacg/deep-rl-navigation-project/blob/master/images/UnityEnvDemo.gif?raw=true" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="360" height="240" border="10" /></a>
 
 # Getting Started
 Before running the code you'll need to install following python modules
