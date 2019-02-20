@@ -9,6 +9,8 @@ Implementation using Python 3, PyTorch, Unity ML-Agents.
 " target="_blank"><img src="https://github.com/nabacg/deep-rl-navigation-project/blob/master/images/UnityEnvDemo.gif?raw=true" 
 alt="IMAGE ALT TEXT HERE" width="360" height="240" border="10" /></a>
 
+[Longer demo on Youtube](https://youtu.be/tcNFhx8VXGQ)
+
 # Getting Started
 Before running the code you'll need to install following python modules
 
